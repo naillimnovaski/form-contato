@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(170, 99, 236, 0.558);
+}
+label{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin:0.5rem;
+}
+button {border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color:rgb(27, 2, 37);
+    background-image: linear-gradient top l
+};
